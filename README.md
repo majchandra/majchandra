@@ -32,9 +32,8 @@ Je suis très motivé pour travailler sur des projets d’analyse de données, d
 - ✈️ **[Prédiction des retards de vols dus aux conditions météorologiques](https://github.com/majchandra/Memoire-Prediction-Prevision-retards-vols-meteo)**  
   Utilisation de l’IA (LSTM, MLP, LNN) pour prédire les retards de vols à partir des données de vols et de météo.
 
-🔹 **[Nom du projet 2](lien_vers_repo)**  
-*Modélisation de prédiction avec Scikit-learn / TensorFlow*  
-Résumé rapide du cas d’usage ou dataset utilisé.
+- 💨 **[Modélisation IA des turbulences en mécanique des fluides](https://github.com/Cranfield-Coop/Cranfield-Coop-Grp2_Tech_Submission)**  
+  Projet de groupe combinant intelligence artificielle et calcul haute performance pour simuler les turbulences CFD.
 
 🔹 **[Nom du projet 3](lien_vers_repo)**  
 *Exploration Big Data avec PySpark*  

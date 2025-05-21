@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Majuran Chandrakumar !  
+# 👋 Salut, moi c’est Majuran C. !  
 🎓 Jeune diplômé en Intelligence Artificielle & Science des Données  
 🇬🇧 MSc – Computational Intelligence for Data Analytics @ Cranfield University  
 🇫🇷 Master – IA & Science des Données @ Université de Technologie de Compiègne (UTC)
@@ -39,12 +39,5 @@ Projet collaboratif combinant intelligence artificielle et calcul haute performa
 Traitement distribué de données mondiales COVID-19 (2020–2023) avec PySpark : analyses statistiques avancées, clustering K-means mensuel des pays les plus touchés, visualisations interactives, et démonstration de la puissance de Spark sur des volumes de données massifs.
 
 > ✨ Plus de projets à venir ! N’hésitez pas à explorer mes repositories publics.
-
----
-
-## 📫 Me contacter
-
-- ✉️ majuranchandrakumar@gmail.com 
-- 💼 https://www.linkedin.com/in/majuran-chandrakumar-782537234/ 
 
 Merci de votre visite 👀 !

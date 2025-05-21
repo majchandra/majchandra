@@ -30,14 +30,13 @@ Je suis très motivé pour travailler sur des projets d’analyse de données, d
 ## 📁 Projets récents
 
 - ✈️ **[Prédiction des retards de vols dus aux conditions météorologiques](https://github.com/majchandra/Memoire-Prediction-Prevision-retards-vols-meteo)**  
-  Utilisation de l’IA (LSTM, MLP, LNN) pour prédire les retards de vols à partir des données de vols et de météo.
+Projet de fin d’études visant à prédire les retards de vols en croisant données météo et historiques de vols. Utilisation de l’intelligence artificielle (LSTM, MLP, LNN), d’outils de visualisation et d’un supercalculateur pour entraîner les modèles et améliorer la précision des prédictions.
 
 - 💨 **[Modélisation IA des turbulences en mécanique des fluides](https://github.com/Cranfield-Coop/Cranfield-Coop-Grp2_Tech_Submission)**  
-  Projet de groupe combinant intelligence artificielle et calcul haute performance pour simuler les turbulences CFD.
+Projet collaboratif combinant intelligence artificielle et calcul haute performance (HPC) pour améliorer la simulation des turbulences en mécanique des fluides (CFD) : entraînement de modèles IA, ajustement de paramètres, et visualisation interactive des résultats.
 
-🔹 **[Nom du projet 3](lien_vers_repo)**  
-*Exploration Big Data avec PySpark*  
-Résumé en une phrase.
+- 🌍 **[Analyse Big Data & ML des cas COVID-19 avec PySpark](https://github.com/majchandra/covid19-data-analysis-spark )**
+Traitement distribué de données mondiales COVID-19 (2020–2023) avec PySpark : analyses statistiques avancées, clustering K-means mensuel des pays les plus touchés, visualisations interactives, et démonstration de la puissance de Spark sur des volumes de données massifs.
 
 > ✨ Plus de projets à venir ! N’hésitez pas à explorer mes repositories publics.
 

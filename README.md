@@ -29,9 +29,8 @@ Je suis très motivé pour travailler sur des projets d’analyse de données, d
 
 ## 📁 Projets récents
 
-🔹 **[Nom du projet 1](lien_vers_repo)**  
-*Analyse de données + visualisation interactive avec Streamlit*  
-Résumé rapide du projet en une phrase.
+- ✈️ **[Prédiction des retards de vols dus aux conditions météorologiques](https://github.com/majchandra/Memoire-Prediction-Prevision-retards-vols-meteo)**  
+  Utilisation de l’IA (LSTM, MLP, LNN) pour prédire les retards de vols à partir des données de vols et de météo.
 
 🔹 **[Nom du projet 2](lien_vers_repo)**  
 *Modélisation de prédiction avec Scikit-learn / TensorFlow*  

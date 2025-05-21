@@ -8,6 +8,7 @@
 ## 🧠 À propos de moi
 
 Je suis très motivé pour travailler sur des projets d’analyse de données, de data intelligence, d’aide à la décision et de data science. Grâce à ma double formation en France et au Royaume-Uni, j’ai acquis des compétences solides en modélisation, visualisation et traitement de données. Je m’intéresse particulièrement à l’application concrète des données pour générer des insights utiles et guider la prise de décision.
+
 🚀 Ouvert aux opportunités en Data Science / Data Analytics / Consulting.
 
 ---

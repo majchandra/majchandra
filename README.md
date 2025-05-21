@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est [Majuran Chandrakumar] !  
+# 👋 Salut, moi c’est Majuran Chandrakumar !  
 🎓 Jeune diplômé en Intelligence Artificielle & Science des Données  
 🇬🇧 MSc – Computational Intelligence for Data Analytics @ Cranfield University  
 🇫🇷 Master – IA & Science des Données @ Université de Technologie de Compiègne (UTC)
@@ -46,7 +46,7 @@ Résumé en une phrase.
 
 ## 📫 Me contacter
 
-- ✉️ [majuranchandrakumar@gmail.com]  
-- 💼 [https://www.linkedin.com/in/majuran-chandrakumar-782537234/]   
+- ✉️ majuranchandrakumar@gmail.com 
+- 💼 https://www.linkedin.com/in/majuran-chandrakumar-782537234/ 
 
 Merci de votre visite 👀 !
